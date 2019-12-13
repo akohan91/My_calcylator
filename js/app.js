@@ -1,0 +1,1 @@
+calc = new Calculator ('.container');
